@@ -1,2 +1,2 @@
 # Elaborato-di-Statistica-Sociale
-Il seguente elaborato analizza 
+Il seguente elaborato è stato sviluppato per il corso di Statistica Sociale al secondo anno di università, comprende cinque esercizi che applicano tecniche avanzate di analisi statistica. Gli esercizi includono la costruzione di **modelli di scala**, **l’analisi delle differenze tra gruppi**, la creazione di **indicatori compositi** sulla qualità della vita e la valutazione dei cambiamenti nel tempo, utilizzando dati provenienti da sondaggi e indici socio-economici.
